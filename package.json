@@ -1,0 +1,17 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  },
+  "author": "SWetanshu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
+
